@@ -4,7 +4,7 @@ This is a project made in p5.js that uses some OOP techniques, randomization, an
 
 ## How to use:
 
-Clone the terminal and run on localhost
+Clone the repo and run on localhost
 
 ## Media:
 
